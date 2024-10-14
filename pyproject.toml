@@ -1,0 +1,18 @@
+[project]
+name = "learning-asyncio"
+version = "0.0.0"
+authors = [
+  { name="プレハブ小屋", email="yojyo@hotmail.com" },
+]
+description = "TBW"
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/showa-yojyo/learning-asyncio/"
+Issues = "https://github.com/showa-yojyo/learning-asyncio/issues"
